@@ -1,0 +1,15 @@
+###_
+int void{}()[] 0 const
+int x;
+0x0 0x123 /*单行模块注释测试*/
+/*
+多行注释测试
+*/
+!===
+= >= || && ! ; , != <= ===
+this_is_an_id
+id123
+ifif
+if then else break continue
+0xfff
+0xF 
